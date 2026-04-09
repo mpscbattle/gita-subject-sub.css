@@ -1,1 +1,0 @@
-# gita-subject-sub.css
